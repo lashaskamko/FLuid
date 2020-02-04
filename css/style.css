@@ -1,0 +1,48 @@
+html, body {
+	width: 100%;
+	height:100%;
+}
+body{
+	padding: 2%;
+}
+.text{
+	text-align: center;
+}
+.green-box{
+	width: 100%;
+	height:100%;
+	padding: 2%;
+	background-color: green;
+
+}
+.blue-box{
+	width: 100%;
+	height:100%;
+	background-color: blue;
+	padding: 2%
+}
+.yellow-box1{
+	width: 100%;
+	height: 35%;
+	background-color: yellow;
+	margin-bottom: 5%;
+	padding: 5%;
+}
+.yellow-box2{
+	width: 100%;
+	height:55%;
+	background-color: yellow;
+}
+.white-box1{
+	display: inline-block;
+	width: 20%;
+	height: 100%;
+	background-color: #fff;
+	padding: 2%;
+
+}
+.pink-box{
+	height: 100%;
+	width:100%;
+	background-color: pink;
+}
